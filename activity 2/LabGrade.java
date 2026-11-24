@@ -4,10 +4,6 @@
  */
 package activity2;
 
-/**
- *
- * @author RELLOSO_CPE113
- */
 public class LabGrade {
     private String studentName;
     private int quizScore;
