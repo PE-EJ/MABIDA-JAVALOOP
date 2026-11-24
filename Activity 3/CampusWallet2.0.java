@@ -4,10 +4,6 @@
  */
 package acticity3;
 
-/**
- *
- * @author RELLOSO_CPE113
- */
 public class CampusWallet {
 private String owner;
     private int balance;
