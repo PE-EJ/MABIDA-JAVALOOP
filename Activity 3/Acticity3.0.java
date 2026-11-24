@@ -4,15 +4,9 @@
  */
 package acticity3;
 
-/**
- *
- * @author RELLOSO_CPE113
- */
 public class Acticity3 {
-
-    /**
-     * @param args the command line arguments
-     */
+am args the command line arguments
+     
     public static void main(String[] args) {
         CampusWallet aly = new CampusWallet("Aly", 100);
         CampusWallet ben = new CampusWallet("Ben");
