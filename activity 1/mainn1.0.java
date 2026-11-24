@@ -4,10 +4,6 @@
  */
 package printaccount;
 
-/**
- *
- * @author QUINONES_CPE113
- */
 public class main {
   
     private final String studentName;
